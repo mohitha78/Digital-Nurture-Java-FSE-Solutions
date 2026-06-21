@@ -8,7 +8,7 @@ Implement the Singleton Design Pattern for a Logger utility class and ensure tha
 
 * Logger.java
 * TestLogger.java
-* Output.png
+* output.png
 
 ## Description
 
