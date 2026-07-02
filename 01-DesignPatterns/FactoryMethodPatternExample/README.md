@@ -15,7 +15,7 @@ Implement the Factory Method Design Pattern to create different types of documen
 * PdfDocumentFactory.java
 * ExcelDocumentFactory.java
 * FactoryMethodTest.java
-* Output.png
+* FactoryMethodPattern_Output.png
 
 ## Description
 
