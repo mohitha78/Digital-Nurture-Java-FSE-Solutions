@@ -1,1 +1,1 @@
-
+# Exercise 1: Mocking and Stubbing ## Objective Learn how to use Mockito to create mock objects and stub methods while testing a service that depends on an external API. ## Concepts Used - Mocking - Stubbing - Mockito - JUnit 5 ## Tools Used - Java 17 - Apache Maven - JUnit 5 - Mockito 5 - Visual Studio Code ## Result Successfully mocked an external API, stubbed its method to return predefined data, and verified the result using a JUnit test.
